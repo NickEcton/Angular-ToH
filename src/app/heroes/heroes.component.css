@@ -1,5 +1,5 @@
 .heroes {
-  margin: 0 auto;
+  margin: 0 0 2em 0;
   list-style-type: none;
   padding: 0;
   width: 15em;
@@ -65,7 +65,7 @@ button:hover {
  
 button.delete {
   position: relative;
-  left: 130px;
+  left: 194px;
   top: -32px;
   background-color: gray !important;
   color: white;
